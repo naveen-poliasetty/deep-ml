@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T17:29:59.022Z",
+  "generated_at": "2026-10-01T13:11:59.131Z",
   "items": {
     "math:30": {
       "kind": "math",
@@ -66,6 +66,19 @@
       "path": "math/0033-expectation-and-variance-algebra",
       "first_solved_at": "2026-09-29T17:29:56.841Z",
       "last_pushed_at": "2026-09-29T17:29:56.841Z"
+    },
+    "problem:1058": {
+      "kind": "problem",
+      "id": "1058",
+      "title": "Random Train/Validation/Test Split with Shuffling",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/1058",
+      "path": "problems/1058-random-train-validation-test-split-with-shuffling",
+      "first_solved_at": "2026-10-01T13:11:54.858Z",
+      "last_pushed_at": "2026-10-01T13:11:54.858Z",
+      "language": "python",
+      "lines": 17
     }
   }
 }
