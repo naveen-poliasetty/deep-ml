@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**18** solved · 10 problems · 0 labs · 8 math
+**19** solved · 10 problems · 1 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -22,6 +22,12 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Sigmoid Activation Function Understanding](https://www.deep-ml.com/problems/22) | easy | 2026-10-12 | [solution](problems/0022-sigmoid-activation-function-understanding) |
 | [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2026-10-12 | [solution](problems/0023-softmax-activation-function-implementation) |
 | [StandardScaler Fit and Transform](https://www.deep-ml.com/problems/842) | medium | 2026-10-02 | [solution](problems/0842-standardscaler-fit-and-transform) |
+
+## Labs
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [Design Your Own Activation Function](https://www.deep-ml.com/labs/9) | easy | 2026-10-14 | [solution](labs/0009-design-your-own-activation-function) |
 
 ## Math
 
