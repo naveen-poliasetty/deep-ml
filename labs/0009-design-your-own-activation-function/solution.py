@@ -17,7 +17,7 @@ def activation(x):
     '''
     # TODO: Implement your activation function
     result = np.maximum(0, x)
-    result = np.tanh((x))
-    result = 1 / (1 + np.exp(-x))
+    '''result = np.tanh((x))
+    result = 1 / (1 + np.exp(-x))'''
     
     return result
